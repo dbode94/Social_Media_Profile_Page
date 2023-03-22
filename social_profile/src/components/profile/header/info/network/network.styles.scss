@@ -1,0 +1,10 @@
+.network-container{
+    color: white;
+    font-size: 11px;
+    display:flex;
+    flex-direction: column;
+    
+    .connection-container{
+        font-weight: bold;
+    }
+}

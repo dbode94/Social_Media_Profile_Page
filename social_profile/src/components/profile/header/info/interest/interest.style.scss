@@ -1,0 +1,20 @@
+.interest-container{
+    color: black;
+    margin-left: 0px;
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+    div{
+        font-weight: normal;
+        font-size: 10px;
+        background-color: white;
+        margin-top: 0.5rem;
+        margin-right: 0.5rem;
+        margin-bottom: 1rem;
+        padding: 0.5rem;
+        border: solid 1px rgba($color: #c5c5c5, $alpha: 1);
+        border-radius: 10px 25px 10px 25px;
+    }
+}

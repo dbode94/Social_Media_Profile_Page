@@ -1,0 +1,18 @@
+.post-container{
+    padding: 1rem;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    gap: 10px;
+}
+
+
+// .post-container{
+//     display: grid;
+//     grid-template-columns: repeat(auto-fill,l);
+//     grid-template-rows: 1fr;
+//     gap: 20px;
+// }
+

@@ -1,0 +1,14 @@
+.information-container{        
+    margin: 1rem;
+    margin-top: 5rem;
+    margin-left: 2rem;
+    white-space: wrap;
+    text-overflow: ellipsis;
+
+    .bios{
+        color: white;
+        // font-size: 12px;
+        inline-size: 50vw;
+        overflow-wrap: break-word;
+    }
+}

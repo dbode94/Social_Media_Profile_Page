@@ -1,0 +1,17 @@
+.navigation-bar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 40px;
+    margin: 0px;
+    background-color: teal;
+    position: sticky;
+    bottom: 0px;
+    z-index: 1;
+    // margin-right: 3rem;
+    // margin-left: 3rem;
+    .link{
+        text-decoration: none;
+        color: black;
+    }
+}
